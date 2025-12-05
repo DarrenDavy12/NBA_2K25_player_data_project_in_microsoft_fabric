@@ -104,3 +104,5 @@ Created a **Fabric Warehouse** to clean the dataset and prepare it for modelling
 ```sql
 UPDATE players
 SET salary = REPLACE(salary, '$', '');
+
+
