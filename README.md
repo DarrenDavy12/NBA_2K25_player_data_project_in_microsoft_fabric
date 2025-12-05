@@ -96,13 +96,12 @@ Created a **Fabric Warehouse** to clean the dataset and prepare it for modelling
 - Fixed team/position inconsistencies  
 - Standardized height & weight formatting  
 - Ensured numeric ratings were valid (0–99)  
-- Generated PlayerID surrogate key  
+- Generated PlayerID surrogate key
 
-### Example SQL Snippets
+<br> 
 
-**Convert salary to numeric**
-```sql
-UPDATE players
-SET salary = REPLACE(salary, '$', '');
+<p align="center">
+<img width="1732" height="793" alt="Image" src="https://github.com/user-attachments/assets/99c05888-d3c2-45f5-b436-0059bd959565" />
+</p>
 
 
