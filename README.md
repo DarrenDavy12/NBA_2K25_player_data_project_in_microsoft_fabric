@@ -62,17 +62,27 @@ Raw CSV → Lakehouse → Warehouse Cleaning → Star Schema → Power BI Dashbo
 
 1. Created a **Fabric Lakehouse**  
 2. Uploaded `current_nba_players.csv` into `/Files`  
-3. Validated schema and data types
+3. Validated schema and data types 
 
+<br>
 
 <p align="center">
 <img width="1741" height="416" alt="Image" src="https://github.com/user-attachments/assets/c9266354-c30a-4123-b225-cc96a68fd3de" />
 </p>
 
+<br>
 
 <p align="center">
   <img width="1752" height="407" alt="Image" src="https://github.com/user-attachments/assets/6647bc52-ed1d-480a-bc21-3eef94da17cf" />
 </p>
+
+<br>
+
+<p align="center">
+<img width="1500" height="843" alt="Image" src="https://github.com/user-attachments/assets/a524f25e-c087-4d84-b0e9-95f0f6702320" />
+</p>
+
+<br>
 
 ---
 
