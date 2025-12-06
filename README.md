@@ -62,7 +62,7 @@ Raw CSV → Lakehouse → Warehouse Cleaning → Star Schema → Power BI Dashbo
 
 1. Created a **Fabric Lakehouse**  
 2. Uploaded `current_nba_players.csv` into `/Files`  
-3. Validated schema and data types 
+3. Validated schema and data types using notebooks (bronze, silver, gold)
 
 <br>
 
@@ -82,7 +82,40 @@ Raw CSV → Lakehouse → Warehouse Cleaning → Star Schema → Power BI Dashbo
 <img width="1500" height="843" alt="Image" src="https://github.com/user-attachments/assets/a524f25e-c087-4d84-b0e9-95f0f6702320" />
 </p>
 
+
 <br>
+
+# Bronze notebook
+<p align="center">
+<img width="1844" height="916" alt="Image" src="https://github.com/user-attachments/assets/4771617e-c7e4-4d69-901a-28a063e9a641" />
+</p>
+
+
+<br>
+
+#  Silver notebook
+<p align="center">
+<img width="1782" height="878" alt="Image" src="https://github.com/user-attachments/assets/df40ef6e-f1ac-48e0-8a09-ab50454dbe72" />
+</p>
+
+
+</br>
+
+<p align="center">
+<img width="1784" height="797" alt="Image" src="https://github.com/user-attachments/assets/61a94543-b32a-4104-a003-ea3583225068" />
+</p>
+
+<br>
+
+<p align="center">
+<img width="1663" height="856" alt="Image" src="https://github.com/user-attachments/assets/d85e5e01-57aa-43d1-b6ca-f90f121ee792" />
+</p>
+
+<br>
+
+<p align="center">
+<img width="1676" height="864" alt="image" src="https://github.com/user-attachments/assets/6e82e0a5-29c4-4898-bba8-500a8ae62d09" />
+</p>
 
 ---
 
